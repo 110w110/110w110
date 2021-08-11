@@ -3,6 +3,7 @@
 :: Saha-gu, Busan, Republic of Korea  
 :: Computer Engineering, Hongik Univ.  
 :: 110w110.official@gmail.com / 110w110@naver.com  
+:: IG [han___tae](https://www.instagram.com/han___tae/)
 
 <!--
 **110w110/110w110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
