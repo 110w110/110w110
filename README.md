@@ -39,6 +39,7 @@
 </div>
 
 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
+[Source File](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
 - 수행 기간 : 2022.1 ~ 2022.8 (약 8개월 소요)
 - 주요 역할 : iOS App Swift 개발 전체 과정
 - 기술 스택 : Swift - Swift UI, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
