@@ -2,11 +2,11 @@
 <div align="center">
  
 ### 🪪 Info.
-  
-:: 👨🏻‍💻 Taehee Han  
-:: 🏠 Saha-gu, Busan, Republic of Korea  
-:: 🏢 Mapo-gu, Seoul, Republic of Korea  
-:: 🏫 Computer Engineering, Hongik Univ.  
+|:: 👨🏻‍💻 Taehee Han  |
+|:------------|
+|:: 🏠 Saha-gu, Busan, Republic of Korea  |
+|:: 🏢 Mapo-gu, Seoul, Republic of Korea  |
+|:: 🏫 Computer Engineering, Hongik Univ.  |
   
   
 ### 📱 Contact
