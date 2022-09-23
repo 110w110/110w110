@@ -42,12 +42,26 @@
 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
 
 <!-- - [💻 Source File Link](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk) -->
+<div align="center">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png">
+</div>
+
+
 - 수행 기간 : 2022.1 ~ 2022.8 (약 8개월 소요)
 - 주요 역할 : iOS App Swift 개발 전체 과정
 - 기술 스택 : Swift - Swift UI, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
 - 업무 성과 :  개발팀 4명과 디자인팀 3명으로 구성된 대학생 팀 단위 프로젝트로 진행되어 거리 기반 소상공인을 위한 커뮤니티 애플리케이션을 개발하였습니다. 개발팀은 2명의 팀원이 백엔드 처리 및 DB, 인프라를 담당하고, 나머지 2명의 팀원이 각각 안드로이드 앱과 아이폰 앱을 개발하였습니다. 그 중에서 아이폰 앱 개발 전체 과정을 도맡아서 진행하였고, 현재 1차 출시를 위해 앱스토어 심사 중에 있습니다.
 
 2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+
+<div align="center">
+<img width="320" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
+<img width="320" alt="스크린샷 2022-09-23 오후 5 41 06" src="https://user-images.githubusercontent.com/87888411/191923480-101f1eed-d9b0-4c22-9585-1ad66f2b1d10.png">
+</div>
+
 - 연계/소속회사 : 홍익대학교 교내 관재팀
 - 수행 기간 : 2022.3 ~ 2022.8 (약 6개월 소요)
 - 주요 역할 : Python을 활용한 자동화 시스템 개발 및 자연어 처리, OA 파일 처리 등
