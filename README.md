@@ -32,14 +32,19 @@
 ### 🏅 Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hantaehee)](https://solved.ac/hantaehee)
-
+ 
+### 🏆 Achievements
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181165021-b2318658-c017-4443-884c-e606746accad.png">
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181179840-70ca1676-5cd2-4b5d-91b6-fce72b1308d2.png">
 
 ### 📑 Project
 
+- - -
+ 
 </div>
 
 <!-- 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info) -->
-1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
+### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
 
 <!-- - [💻 Source File Link](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk) -->
 <div align="center">
@@ -55,7 +60,9 @@
 - 기술 스택 : Swift - Swift UI, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
 - 업무 성과 :  개발팀 4명과 디자인팀 3명으로 구성된 대학생 팀 단위 프로젝트로 진행되어 거리 기반 소상공인을 위한 커뮤니티 애플리케이션을 개발하였습니다. 개발팀은 2명의 팀원이 백엔드 처리 및 DB, 인프라를 담당하고, 나머지 2명의 팀원이 각각 안드로이드 앱과 아이폰 앱을 개발하였습니다. 그 중에서 아이폰 앱 개발 전체 과정을 도맡아서 진행하였고, 현재 1차 출시를 위해 앱스토어 심사 중에 있습니다.
 
-2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+- - -
+ 
+### 2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -68,7 +75,9 @@
 - 기술 스택 : Python - Selenium, Regular Expression, Openpyxl, Pyinstaller / VCS - Git, Github
 - 업무 성과 : Hongik Accounting Management Advanced System로 교내 관재팀에서 사용하고 있는 회계업무 시스템을 자동화하기 위한 프로젝트입니다. Python을 활용하여 기존 시스템의 입력을 별도로 작성해 둔 파일을 기반으로 자동으로 작성하고 다양한 문자열 처리 및 예외케이스에 대응하여 오류 없이 작동하도록 개발하였습니다.
 
-3) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
+- - -
+
+### 3) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
  
 <div align="center">
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
@@ -81,16 +90,20 @@
 - 기술 스택 : Python - YOLO Darknet / Rasberry Pi / Linux OS / 협업툴 - Notion / VCS - Git, Gitlab
 - 업무 성과 : 2020년 한이음 멘토링사업 프로젝트의 지원으로 진행된 프로젝트입니다. AI Drone의 자율비행을 통해 산악지형을 비행하고, YOLO 기반의 영상처리를 통해 산불을 미리 감지하고 조난자를 수색하는 DOLO를 제작하였습니다. 1년 간의 프로젝트 결과 한이음 공모전에 입상하였습니다.
 
-4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+- - -
+ 
+### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+ 
+<div align="center">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181175419-1d1836ad-4673-4988-8d9c-a54979dc9b73.png">
+</div>
+ 
 - 연계/소속회사 : 한이음 멘토링 사업
 - 수행 기간 : 2021.3 ~ 2021.11 (약 9개월 소요)
 - 주요 역할 : 아두이노 보드 구성 및 Python 기반의 OpenCV를 통한 영상처리, Selenium을 통한 쇼핑몰 리뷰 수집과 분석, Android 앱 구성과 디자인 등
 - 기술 스택 : Python - OpenCV / Arduino / Android OS / Server - AWS / DB - MySQL /  협업툴 - Notion / VCS - Git, Gitlab
 - 업무 성과 : 2021년 한이음 멘토링사업 프로젝트의 지원으로 진행된 프로젝트입니다. TTOKSHOW는 아두이도 보드를 활용하여 상품의 바코드를 인식하고 해당하는 데이터를 서버와 통신하여 DB에 저장된 데이터를 가져옵니다. 다양한 상품에 관한 리뷰와 상품 정보를 여러 쇼핑 사이트에서 자동으로 추출하여 통계 및 분석하고 이에 따른 결과를 사용자에게 보기 좋게 알려줍니다. 1년 간의 프로젝트 결과 한이음 공모전에 입상하였습니다.
-
-
-
-
 
 
 <!--
