@@ -10,10 +10,11 @@
   
   
 ### 📱 Contact
-<a href="https:/www.naver.com" target="_blank"> <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/> 110w110@naver.com  
-<a href="https:/www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-4285F4?style=flat&logo=Google&logoColor=white"/> 
-110w110.official@gmail.com  
-<a href="https://www.instagram.com/han___tae/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> </a> [han__tae](https://www.instagram.com/han___tae/)
+|<a href="https:/www.naver.com" target="_blank"> <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/> 110w110@naver.com  |
+|:------------|
+|<a href="https:/www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-4285F4?style=flat&logo=Google&logoColor=white"/> 110w110.official@gmail.com  |
+|<a href="https://www.instagram.com/han___tae/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> </a> [han__tae](https://www.instagram.com/han___tae/)|
+
   
 ### 💻 Tech  
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
