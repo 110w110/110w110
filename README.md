@@ -58,8 +58,8 @@
 2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
-<img width="440" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
-<img width="440" alt="스크린샷 2022-09-23 오후 5 41 06" src="https://user-images.githubusercontent.com/87888411/191923480-101f1eed-d9b0-4c22-9585-1ad66f2b1d10.png">
+<img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
+<img width="420" alt="스크린샷 2022-09-23 오후 5 41 06" src="https://user-images.githubusercontent.com/87888411/191923480-101f1eed-d9b0-4c22-9585-1ad66f2b1d10.png">
 </div>
 
 - 연계/소속회사 : 홍익대학교 교내 관재팀
@@ -71,8 +71,8 @@
 3) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
  
 <div align="center">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/87888411/181165408-d0d26d96-7e73-4248-894e-0781c33eeb7d.png">
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/87888411/181165408-d0d26d96-7e73-4248-894e-0781c33eeb7d.png">
 </div>
  
 - 연계/소속회사 : 한이음 멘토링 사업
