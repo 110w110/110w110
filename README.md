@@ -59,12 +59,29 @@
 
 - 수행 기간 : 2022.1 ~ 2022.8 (약 8개월 소요)
 - 주요 역할 : iOS App Swift 개발 전체 과정
-- 기술 스택 : Swift - Swift UI, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
+- 기술 스택 : Swift - UIKit, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
 - 업무 성과 :  개발팀 4명과 디자인팀 3명으로 구성된 대학생 팀 단위 프로젝트로 진행되어 거리 기반 소상공인을 위한 커뮤니티 애플리케이션을 개발하였습니다. 개발팀은 2명의 팀원이 백엔드 처리 및 DB, 인프라를 담당하고, 나머지 2명의 팀원이 각각 안드로이드 앱과 아이폰 앱을 개발하였습니다. 그 중에서 아이폰 앱 개발 전체 과정을 도맡아서 진행하였고, 현재 1차 출시를 위해 앱스토어 심사 중에 있습니다.
 
 - - -
  
-### 2) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+
+<div align="center">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051891-7babee7f-10c7-41e8-a1c1-87fe091c6525.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195052005-613f40fe-5853-4552-ad61-484d73dd5f74.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195052069-4bb27d40-a8c2-46e4-9235-1c3c1863cce2.png">
+</div>
+
+- 소속 : 홍익대학교 AIML 졸업프로젝트
+- 수행 기간 : 2022.3 ~ 2022.11 (진행중)
+- 주요 역할 : SwiftUI 기반의 MVVM 패턴 iOS App 개발 및 Core ML AI 모델 구현
+- 기술 스택 : Swift - SwiftUI, Firebase API, ML Kit SDK / AI - Core ML / VCS - Git, Github
+- 업무 성과 : 모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App 개발 프로젝트입니다. 졸업 프로젝트 과제로 수행 중이며 SwiftUI를 활용하여 MVVM 패턴으로 작성하였습니다. ML Kit을 사용하여 카메라 앵글 내에 존재하는 사람들의 얼굴을 Crop하고 Core ML 모델을 통해 눈의 개폐 여부를 파악하여 사진을 선별합니다.
+
+- - -
+ 
+### 3) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -79,7 +96,7 @@
 
 - - -
 
-### 3) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
+### 4) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
  
 <div align="center">
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
@@ -94,7 +111,7 @@
 
 - - -
  
-### 4) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+### 5) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
