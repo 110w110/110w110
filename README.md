@@ -4,6 +4,7 @@
 ### 🪪 Info.
 |:: 👨🏻‍💻 Taehee Han  |
 |:------------|
+|:: 🖥 Nexon Korea Corp iOS Developer |
 |:: 🏠 Saha-gu, Busan, Republic of Korea  |
 |:: 🏢 Mapo-gu, Seoul, Republic of Korea  |
 |:: 🏫 Computer Engineering, Hongik Univ.  |
