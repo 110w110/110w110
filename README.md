@@ -4,7 +4,7 @@
 ### 🪪 Info.
 |:: 👨🏻‍💻 Taehee Han  |
 |:------------|
-|:: 🖥 Nexon Korea Corp iOS Developer |
+|:: ![yourbadge](https://img.shields.io/badge/-00599C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTU2IiBoZWlnaHQ9IjE0ODIiIHZlcnNpb249IjEuMiI+PHBhdGggZD0iTTY3MC45IDkxOS43SDBWMzI5LjlMNjcwLjkuNHoiIHN0eWxlPSJmaWxsOiMwYjJhNGEiLz48cGF0aCBkPSJtMCAxMjc4LjUgMi4xLTM1OS4yIDY2OC44LjQgODg1IDE5Ny41LTY5NC4xIDM2NC4yeiIgc3R5bGU9ImZpbGw6I2MzZDYwMCIvPjxwYXRoIGQ9Ik02NzAuOSA5MTkuNyAwIDEyNzguNVY3NzUuNnoiIHN0eWxlPSJmaWxsOiMwMGExZTEiLz48L3N2Zz4=) Nexon Korea Corp iOS Developer |
 |:: 🏠 Saha-gu, Busan, Republic of Korea  |
 |:: 🏢 Gangnam-gu, Seoul, Republic of Korea  |
 |:: 🏫 Computer Engineering, Hongik Univ.  |
@@ -14,8 +14,10 @@
 |<a href="https:/www.naver.com" target="_blank"> <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/> 110w110@naver.com  |
 |:------------|
 |<a href="https:/www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-4285F4?style=flat&logo=Google&logoColor=white"/> 110w110.official@gmail.com  |
+|![yourbadge](https://img.shields.io/badge/Nexon-blue.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTU2IiBoZWlnaHQ9IjE0ODIiIHZlcnNpb249IjEuMiI+PHBhdGggZD0iTTY3MC45IDkxOS43SDBWMzI5LjlMNjcwLjkuNHoiIHN0eWxlPSJmaWxsOiMwYjJhNGEiLz48cGF0aCBkPSJtMCAxMjc4LjUgMi4xLTM1OS4yIDY2OC44LjQgODg1IDE5Ny41LTY5NC4xIDM2NC4yeiIgc3R5bGU9ImZpbGw6I2MzZDYwMCIvPjxwYXRoIGQ9Ik02NzAuOSA5MTkuNyAwIDEyNzguNVY3NzUuNnoiIHN0eWxlPSJmaWxsOiMwMGExZTEiLz48L3N2Zz4=) hantae@nexon.co.kr  |
 |<a href="https://www.instagram.com/han___tae/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> </a> [han__tae](https://www.instagram.com/han___tae/)|
 
+ 
   
 ### 💻 Tech  
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
