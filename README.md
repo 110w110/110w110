@@ -4,7 +4,7 @@
 ### 🪪 Info.
 |:: 👨🏻‍💻 Taehee Han  |
 |:------------|
-|:: ![yourbadge](https://img.shields.io/badge/-00599C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTU2IiBoZWlnaHQ9IjE0ODIiIHZlcnNpb249IjEuMiI+PHBhdGggZD0iTTY3MC45IDkxOS43SDBWMzI5LjlMNjcwLjkuNHoiIHN0eWxlPSJmaWxsOiMwYjJhNGEiLz48cGF0aCBkPSJtMCAxMjc4LjUgMi4xLTM1OS4yIDY2OC44LjQgODg1IDE5Ny41LTY5NC4xIDM2NC4yeiIgc3R5bGU9ImZpbGw6I2MzZDYwMCIvPjxwYXRoIGQ9Ik02NzAuOSA5MTkuNyAwIDEyNzguNVY3NzUuNnoiIHN0eWxlPSJmaWxsOiMwMGExZTEiLz48L3N2Zz4=) Nexon Korea Corp iOS Developer |
+|:: 🖥 Nexon Korea Corp iOS Developer |
 |:: 🏠 Saha-gu, Busan, Republic of Korea  |
 |:: 🏢 Gangnam-gu, Seoul, Republic of Korea  |
 |:: 🏫 Computer Engineering, Hongik Univ.  |
