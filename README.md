@@ -49,7 +49,7 @@
  
 </div>
 
-1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
+### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
 <!-- ### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
  -->
 <!-- - [💻 Source File Link](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk) -->
