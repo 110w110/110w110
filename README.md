@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   
-  
+<!--   
 ### 🏅 Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hantaehee)](https://solved.ac/hantaehee)
@@ -50,9 +50,6 @@
 </div>
 
 ### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
-<!-- ### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk)
- -->
-<!-- - [💻 Source File Link](https://github.com/110w110/Streetalk_copied/tree/main/Streetalk) -->
 <div align="center">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
@@ -128,7 +125,7 @@
 - 기술 스택 : Python - OpenCV / Arduino / Android OS / Server - AWS / DB - MySQL /  협업툴 - Notion / VCS - Git, Gitlab
 - 업무 성과 : 2021년 한이음 멘토링사업 프로젝트의 지원으로 진행된 프로젝트입니다. TTOKSHOW는 아두이도 보드를 활용하여 상품의 바코드를 인식하고 해당하는 데이터를 서버와 통신하여 DB에 저장된 데이터를 가져옵니다. 다양한 상품에 관한 리뷰와 상품 정보를 여러 쇼핑 사이트에서 자동으로 추출하여 통계 및 분석하고 이에 따른 결과를 사용자에게 보기 좋게 알려줍니다. 1년 간의 프로젝트 결과 한이음 공모전에 입상하였습니다.
 
-
+ -->
 <!--
 
 
