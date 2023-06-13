@@ -36,7 +36,7 @@
     
 ### 🏅 Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hantaehee)](https://solved.ac/hantaehee)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hantaehee)](https://solved.ac/hantaehee) -->
  
 ### 🏆 Achievements
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181165021-b2318658-c017-4443-884c-e606746accad.png">
