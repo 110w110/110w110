@@ -48,6 +48,17 @@
  
 </div>
 
+### 0) [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
+- 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
+- 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
+- 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
+  
+<div align="center">
+<img width="480" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/0880d118-3ced-49a1-96db-57c28b68245d">
+</div>
+
+
+
 ### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
 <div align="center">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
