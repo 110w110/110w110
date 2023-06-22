@@ -54,7 +54,7 @@
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
   
 <div align="center">
-<img width="480" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/0880d118-3ced-49a1-96db-57c28b68245d">
+<img width="240" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/0880d118-3ced-49a1-96db-57c28b68245d">
 </div>
 
 
