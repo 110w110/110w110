@@ -103,7 +103,20 @@
 
 - - -
  
-### 3) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 3) [Badaboda (기상청 전국 해수욕장 기상정보 자료를 확인할 수 있는 서비스 프로젝트)](https://github.com/110w110/BeachInfoService)
+
+<div align="center">
+<img width="1024" alt="image" src="https://github.com/110w110/BeachInfoService/assets/87888411/fe675e09-0d44-47c8-bbb5-8e66b0ad4bc9">
+</div>
+
+- 수행 기간 : 2023.7.24 ~ 2023.7.26 (3 days)
+- 주요 역할 : Objective-C를 사용한 프로젝트 개발 및 오픈 API 서비스 처리, DTO 모델 설계 등 모든 과정
+- 기술 스택 : Objective-C / UI - XIB / VCS - Git, Github
+- 프로젝트 의의 : 가장 간단한 구조의 형태로 빠른 시간에 구현한 오픈 API Objective-C 프로젝트
+
+- - -
+ 
+### 4) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -118,7 +131,7 @@
 
 - - -
 
-### 4) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
+### 5) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
  
 <div align="center">
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
@@ -133,7 +146,7 @@
 
 - - -
  
-### 5) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+### 6) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
