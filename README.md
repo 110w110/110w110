@@ -52,8 +52,17 @@
 - 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
 - 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
+- 또한 현재 앱스토어 심사 진행 중입니다. (23.7.29 기준)
   
 <div align="center">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/537dee9b-ec13-4414-9eeb-def5d40c67a3">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/1f51ebb3-e097-4f0e-bad1-5a6e5a9934b7">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/cbe0be64-1f46-431b-952f-a4bfdc7ead24">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/698d94db-1b99-48c1-a1ed-f2fa95316f2a">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/5f4c6f18-f3ca-4558-919b-c66e5ea0d333">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/09b6b767-5009-41e5-a32f-7b90eb006ad8">
+<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/365b3cf3-70bc-4898-9d37-64ae891b2101">
+ 
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/9a775f47-44ee-4987-844e-0e102509be07">
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/8ceafda3-81bb-46e6-a900-55e74e199198">
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/5ee9636b-fb49-4860-8d93-d9434ccd7f43">
