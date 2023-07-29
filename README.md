@@ -55,13 +55,13 @@
 - 또한 현재 앱스토어 심사 진행 중입니다. (23.7.29 기준)
   
 <div align="center">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/537dee9b-ec13-4414-9eeb-def5d40c67a3">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/1f51ebb3-e097-4f0e-bad1-5a6e5a9934b7">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/cbe0be64-1f46-431b-952f-a4bfdc7ead24">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/698d94db-1b99-48c1-a1ed-f2fa95316f2a">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/5f4c6f18-f3ca-4558-919b-c66e5ea0d333">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/09b6b767-5009-41e5-a32f-7b90eb006ad8">
-<img width="120" alt="image" src="https://github.com/110w110/110w110/assets/87888411/365b3cf3-70bc-4898-9d37-64ae891b2101">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/537dee9b-ec13-4414-9eeb-def5d40c67a3">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/1f51ebb3-e097-4f0e-bad1-5a6e5a9934b7">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/cbe0be64-1f46-431b-952f-a4bfdc7ead24">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/698d94db-1b99-48c1-a1ed-f2fa95316f2a">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/5f4c6f18-f3ca-4558-919b-c66e5ea0d333">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/09b6b767-5009-41e5-a32f-7b90eb006ad8">
+<img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/365b3cf3-70bc-4898-9d37-64ae891b2101">
  
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/9a775f47-44ee-4987-844e-0e102509be07">
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/8ceafda3-81bb-46e6-a900-55e74e199198">
