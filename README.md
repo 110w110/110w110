@@ -65,7 +65,7 @@
  
 <!-- <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/9a775f47-44ee-4987-844e-0e102509be07">
 <img width="500" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/8ceafda3-81bb-46e6-a900-55e74e199198"> -->
-<img width="1024" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/5ee9636b-fb49-4860-8d93-d9434ccd7f43">
+<img width="730" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/5ee9636b-fb49-4860-8d93-d9434ccd7f43">
 </div>
 
 
