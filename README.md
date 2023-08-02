@@ -42,6 +42,12 @@
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181165021-b2318658-c017-4443-884c-e606746accad.png">
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181179840-70ca1676-5cd2-4b5d-91b6-fce72b1308d2.png">
 
+### 🍎 App store
+<img height="300" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/a0135288-6392-415f-9157-68b2cf9387ba">
+<img height="300" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/6a5877eb-6f4a-48c9-b521-fcee2d5a55f6">
+
+[앱스토어 바로가기 Link](https://apps.apple.com/app/%EC%8A%A4%ED%8A%B8%EB%A6%BF%ED%86%A1/id6451136628)
+
 ### 📑 Project
 
 - - -
@@ -52,7 +58,7 @@
 - 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
 - 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
-- 또한 현재 앱스토어 심사 진행 중입니다. (23.7.29 기준)
+- 앱스토어 출시가 완료되었습니다. [앱스토어 바로가기 Link](https://apps.apple.com/app/%EC%8A%A4%ED%8A%B8%EB%A6%BF%ED%86%A1/id6451136628)
   
 <div align="center">
 <img width="100" alt="image" src="https://github.com/110w110/110w110/assets/87888411/537dee9b-ec13-4414-9eeb-def5d40c67a3">
