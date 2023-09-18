@@ -54,7 +54,23 @@
  
 </div>
 
-### 0) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
+### 1) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
+<div align="center">
+<!-- <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png"> -->
+</div>
+
+
+- 수행 기간 : 2023.9.5 ~  (진행중)
+- 주요 역할 : iOS App 개발 전체 과정
+- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
+- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 성과 달성 목표는 10월 초 앱스토어 출시입니다.
+
+- - -
+
+### 2-1) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
 - 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
 - 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
@@ -76,7 +92,7 @@
 
 
 
-### 1) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
+### 2-2) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
 <div align="center">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
@@ -92,7 +108,7 @@
 
 - - -
  
-### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+### 3) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -109,7 +125,7 @@
 
 - - -
  
-### 3) [Badaboda (기상청 전국 해수욕장 기상정보 자료를 확인할 수 있는 서비스 프로젝트)](https://github.com/110w110/BeachInfoService)
+### 4) [Badaboda (기상청 전국 해수욕장 기상정보 자료를 확인할 수 있는 서비스 프로젝트)](https://github.com/110w110/BeachInfoService)
 
 <div align="center">
 <img width="1024" alt="image" src="https://github.com/110w110/BeachInfoService/assets/87888411/fe675e09-0d44-47c8-bbb5-8e66b0ad4bc9">
@@ -122,7 +138,7 @@
 
 - - -
  
-### 4) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
+### 5) [HAMA System (홍익대학교 회계전산 자동화시스템 개발)](https://github.com/HAMA-system/HAMA)
 
 <div align="center">
 <img width="420" alt="스크린샷 2022-09-23 오후 5 29 23" src="https://user-images.githubusercontent.com/87888411/191922534-b47cefa3-a512-468f-a708-9e0803447894.png">
@@ -137,7 +153,7 @@
 
 - - -
 
-### 5) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
+### 6) [DOLO (산불 감지 및 조난자 수색 AI 드론)](https://github.com/110w110/2020_Hanium)
  
 <div align="center">
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
@@ -152,7 +168,7 @@
 
 - - -
  
-### 6) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
+### 7) [Ttokshow (스마트한 쇼핑을 위한 스마트안경)](https://github.com/110w110/2021_Hanium)
  
 <div align="center">
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/181178524-921ab114-af1a-429a-809a-170a42ade8fc.png">
