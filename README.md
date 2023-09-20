@@ -66,7 +66,7 @@
 - 수행 기간 : 2023.9.5 ~  (진행중)
 - 주요 역할 : iOS App 개발 전체 과정
 - 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
-- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 성과 달성 목표는 10월 초 앱스토어 출시입니다.
+- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 성과 달성 목표는 10월 중 앱스토어 출시입니다.
 
 - - -
 
