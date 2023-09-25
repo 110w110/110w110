@@ -50,27 +50,9 @@
 
 ### 📑 Project
 
-- - -
- 
-</div>
-
-### 1) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
-<div align="center">
-<!-- <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png"> -->
-</div>
 
 
-- 수행 기간 : 2023.9.5 ~  (진행중)
-- 주요 역할 : iOS App 개발 전체 과정
-- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
-- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 성과 달성 목표는 10월 중 앱스토어 출시입니다.
-
-- - -
-
-### 2-1) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
+### 1-1) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
 - 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
 - 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
@@ -92,7 +74,7 @@
 
 
 
-### 2-2) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
+### 1-2) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
 <div align="center">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
@@ -108,7 +90,7 @@
 
 - - -
  
-### 3) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -122,6 +104,24 @@
 - 주요 역할 : SwiftUI 기반의 MVVM 패턴 iOS App 개발 및 Core ML AI 모델 구현
 - 기술 스택 : Swift - SwiftUI, Firebase API, ML Kit SDK / AI - Core ML / VCS - Git, Github
 - 업무 성과 : 모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App 개발 프로젝트입니다. 졸업 프로젝트 과제로 수행 중이며 SwiftUI를 활용하여 MVVM 패턴으로 작성하였습니다. ML Kit을 사용하여 카메라 앵글 내에 존재하는 사람들의 얼굴을 Crop하고 Core ML 모델을 통해 눈의 개폐 여부를 파악하여 사진을 선별합니다.
+
+- - -- - -
+ 
+</div>
+
+### 3) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
+<div align="center">
+<!-- <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png"> -->
+</div>
+
+
+- 수행 기간 : 2023.9.5 ~  (진행중)
+- 주요 역할 : iOS App 개발 전체 과정
+- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
+- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 성과 달성 목표는 10월 중 앱스토어 출시입니다.
 
 - - -
  
