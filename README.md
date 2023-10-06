@@ -112,10 +112,7 @@
 
 ### 3) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
 <div align="center">
-<!-- <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
-<img width="420" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png"> -->
+<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
 </div>
 
 
