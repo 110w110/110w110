@@ -43,10 +43,15 @@
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181179840-70ca1676-5cd2-4b5d-91b6-fce72b1308d2.png">
 
 ### 🍎 App store
-<img height="180" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/a0135288-6392-415f-9157-68b2cf9387ba">
-<img height="180" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/6a5877eb-6f4a-48c9-b521-fcee2d5a55f6">
+<img height="320" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/eb469441-bdb0-4a5b-8441-8e69bb9fbdd5">
 
-[앱스토어 바로가기 Link](https://apps.apple.com/app/%EC%8A%A4%ED%8A%B8%EB%A6%BF%ED%86%A1/id6451136628)
+
+|:: 앱스토어 링크  |
+|:------------|
+|:: [Streetalk Appstore Link](https://apps.apple.com/kr/app/%EC%8A%A4%ED%8A%B8%EB%A6%BF%ED%86%A1/id6451136628) |
+|:: [OnlyPickOne Appstore Link](https://apps.apple.com/kr/app/onlypickone/id6469682692) |
+
+
 
 ### 📑 Project
 
