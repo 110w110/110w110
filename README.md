@@ -43,7 +43,7 @@
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/87888411/181179840-70ca1676-5cd2-4b5d-91b6-fce72b1308d2.png">
 
 ### 🍎 App store
-<img height="320" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/eb469441-bdb0-4a5b-8441-8e69bb9fbdd5">
+<img height="320" alt="image" src="https://github.com/110w110/Streetalk_Renewal/assets/87888411/2cfe2c63-deeb-42d4-8d48-8c1027383f22">
 
 
 |:: 앱스토어 링크  |
