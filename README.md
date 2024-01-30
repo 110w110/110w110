@@ -97,8 +97,21 @@
 - 업무 성과 :  개발팀 4명과 디자인팀 3명으로 구성된 대학생 팀 단위 프로젝트로 진행되어 거리 기반 소상공인을 위한 커뮤니티 애플리케이션을 개발하였습니다. 개발팀은 2명의 팀원이 백엔드 처리 및 DB, 인프라를 담당하고, 나머지 2명의 팀원이 각각 안드로이드 앱과 아이폰 앱을 개발하였습니다. 그 중에서 아이폰 앱 개발 전체 과정을 도맡아서 진행하였습니다.
 
 - - -
- 
-### 2) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
+
+### 2) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
+<div align="center">
+<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
+</div>
+
+
+- 수행 기간 : 2023.9.5 ~ 2023.12.4
+- 주요 역할 : 프로젝트 기획 및 설계, 전체 UI 디자인, iOS App 개발 전체 과정 등
+- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
+- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
+
+- - -
+
+### 3) [uBlinked (모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App)](https://github.com/110w110/ublinked_SwiftUI)
 
 <div align="center">
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/195051606-f92f25f1-441c-43aa-9c93-bc1d6e5f8ce9.png">
@@ -115,19 +128,6 @@
 
 - - -- - -
 
-### 3) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
-<div align="center">
-<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
-</div>
-
-
-- 수행 기간 : 2023.9.5 ~ 2023.12.4
-- 주요 역할 : 프로젝트 기획 및 설계, 전체 UI 디자인, iOS App 개발 전체 과정 등
-- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
-- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
-
-- - -
- 
 ### 4) [Badaboda (기상청 전국 해수욕장 기상정보 자료를 확인할 수 있는 서비스 프로젝트)](https://github.com/110w110/BeachInfoService)
 
 <div align="center">
