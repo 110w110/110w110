@@ -121,7 +121,7 @@
 </div>
 
 - 소속 : 홍익대학교 AIML 졸업프로젝트
-- 수행 기간 : 2022.3 ~ 2022.11
+- 수행 기간 : 2022.10 ~ 2022.11
 - 주요 역할 : SwiftUI 기반의 MVVM 패턴 iOS App 개발 및 Core ML AI 모델 구현
 - 기술 스택 : Swift - SwiftUI, Firebase API, ML Kit SDK / AI - Core ML / VCS - Git, Github
 - 업무 성과 : 모든 사람이 눈을 감지 않은 사진을 찍어주는 인공지능 iOS App 개발 프로젝트입니다. 졸업 프로젝트 과제로 수행했으며 SwiftUI를 활용하여 MVVM 패턴으로 작성하였습니다. ML Kit을 사용하여 카메라 앵글 내에 존재하는 사람들의 얼굴을 Crop하고 Core ML 모델을 통해 눈의 개폐 여부를 파악하여 사진을 선별합니다. 대학교 졸업 전시회 졸업 작품으로 공모전에 성공적으로 출품했습니다.
