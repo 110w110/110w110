@@ -60,7 +60,21 @@
 </div>
 
 
-### 1-1) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
+### 1) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
+<div align="center">
+<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
+</div>
+
+
+- 수행 기간 : 2023.9.5 ~ 2023.12.4
+- 주요 역할 : 프로젝트 기획 및 설계, 전체 UI 디자인, iOS App 개발 전체 과정 등
+- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
+- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
+- 앱스토어 출시가 완료되었습니다. [앱스토어 바로가기 Link](https://apps.apple.com/kr/app/onlypickone/id6469682692)
+
+- - -
+
+### 2-1) 🌟 [Streetalk iOS App Project Renewal](https://github.com/110w110/Streetalk_Renewal)
 - 개요 : 1년 전에 진행하였던 Streetalk 앱 프로젝트를 완전히 새롭게 리팩토링하는 프로젝트입니다.
 - 주요 변경점 : 중복되는 로직 상속 또는 확장으로 통일, 네트워크 모듈 구현, Storyboard 의존성 축소 및 분리, 통용되는 컨벤션 적용 등
 - 현재 계속 수정되고 있는 작업이며, 변경되는 작업 사항을 꾸준히 업데이트할 예정입니다.
@@ -82,7 +96,7 @@
 
 
 
-### 1-2) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
+### 2-2) [Streetalk iOS App 출시 프로젝트](https://github.com/110w110/Streetalk_Info)
 <div align="center">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
 <img width="120" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
@@ -95,20 +109,6 @@
 - 주요 역할 : iOS App Swift 개발 전체 과정
 - 기술 스택 : Swift - UIKit, Restful API, Alamofire HTTP 통신, Asynchronous  Programming 등 / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Slack, Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
 - 업무 성과 :  개발팀 4명과 디자인팀 3명으로 구성된 대학생 팀 단위 프로젝트로 진행되어 거리 기반 소상공인을 위한 커뮤니티 애플리케이션을 개발하였습니다. 개발팀은 2명의 팀원이 백엔드 처리 및 DB, 인프라를 담당하고, 나머지 2명의 팀원이 각각 안드로이드 앱과 아이폰 앱을 개발하였습니다. 그 중에서 아이폰 앱 개발 전체 과정을 도맡아서 진행하였습니다.
-
-- - -
-
-### 2) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
-<div align="center">
-<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
-</div>
-
-
-- 수행 기간 : 2023.9.5 ~ 2023.12.4
-- 주요 역할 : 프로젝트 기획 및 설계, 전체 UI 디자인, iOS App 개발 전체 과정 등
-- 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
-- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
-- 앱스토어 출시가 완료되었습니다. [앱스토어 바로가기 Link](https://apps.apple.com/kr/app/onlypickone/id6469682692)
 
 - - -
 
