@@ -62,7 +62,7 @@
 
 ### 1) [OnlyPickOne - 이상형 월드컵 iOS 앱 출시 프로젝트](https://github.com/OnlyPickOne/onlypickone-ios)
 <div align="center">
-<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/b2892b7e-ed1b-43c0-84fb-60ec021947f8">
+<img width="720" alt="image" src="https://github.com/110w110/110w110/assets/87888411/ea4fa14d-c71a-43ce-831c-11cf149d3f9d">
 </div>
 
 
