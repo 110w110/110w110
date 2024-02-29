@@ -69,7 +69,7 @@
 - 수행 기간 : 2023.9.5 ~ 2023.12.4
 - 주요 역할 : 프로젝트 기획 및 설계, 전체 UI 디자인, iOS App 개발 전체 과정 등
 - 기술 스택 : Swift - SwiftUI + Combine (MVVM) / Network Service - Alamofire, Moya / Image Process - Kingfisher / Server - AWS / DB - MySQL / Design - Figma, Zeplin / 협업툴 - Notion / 배포 - TestFlight, Appstore / VCS - Git, Github
-- 업무 성과 :  iOS, Web Client, Server & DB 로 이루어진 3명의 팀 구성원이 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
+- 업무 성과 :  iOS, Server & DB 개발 팀으로 진행하는 프로젝트입니다. 유저들이 자유롭게 업로드한 사진과 캡션을 무작위로 배정하여 반복적으로 1:1 매칭을 진행하는 게임입니다. 최종적으로 단 한 개의 선택지가 남으면 게임이 종료되며, 다른 유저들이 가장 많이 선택한 선택지를 비교하며 공유하고 즐길 수 있습니다. 현재 앱스토어에 성공적으로 출시되어 서비스되고 있습니다.
 - 앱스토어 출시가 완료되었습니다. [앱스토어 바로가기 Link](https://apps.apple.com/kr/app/onlypickone/id6469682692)
 
 - - -
