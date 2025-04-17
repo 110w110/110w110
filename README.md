@@ -7,7 +7,7 @@
 |:: 🖥 Nexon Korea Corp iOS Developer (2022~2023) |
 |:: 🖥 Hyundai-AutoEver, iOS Developer (2024~) |
 |:: 🏠 Saha-gu, Busan, Republic of Korea  |
-|:: 🏢 Gangnam-gu, Seoul, Republic of Korea  |
+|:: 🏢 Songpa-gu, Seoul, Republic of Korea  |
 |:: 🏫 Computer Engineering, Hongik Univ.  |
   
   
